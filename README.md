@@ -100,8 +100,7 @@ The scanner probes target endpoints against four specialized origin scenarios:
 ├── AdityaNaik_ProjectReport.docx         # Comprehensive formal project report (Microsoft Word format)
 ├── requirements.txt                      # List of Python dependencies
 ├── README.md                             # Project documentation, threat model, and usage guide
-├── audit_results.json                    # Sample exported audit report in JSON format
-└── gemini-code-1792768670920.md          # Architecture and initial project notes
+└── audit_results.json                    # Sample exported audit report in JSON format
 ```
 
 ---
@@ -110,7 +109,7 @@ The scanner probes target endpoints against four specialized origin scenarios:
 
 ### Step 1: Clone or Extract Repository
 ```bash
-git clone https://github.com/AdityaNaik/automated-web-scanner.git
+git clone https://github.com/AdityaNaik03/automated-web-scanner.git
 cd automated-web-scanner
 ```
 
